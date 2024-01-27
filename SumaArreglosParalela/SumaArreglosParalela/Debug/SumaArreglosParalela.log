@@ -1,0 +1,4 @@
+﻿  SumaArreglosParalela.cpp
+D:\Proyectos\OMP\SumaArreglosParalela\SumaArreglosParalela\SumaArreglosParalela.cpp(21,18): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+D:\Proyectos\OMP\SumaArreglosParalela\SumaArreglosParalela\SumaArreglosParalela.cpp(22,24): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  SumaArreglosParalela.vcxproj -> D:\Proyectos\OMP\SumaArreglosParalela\Debug\SumaArreglosParalela.exe
